@@ -17,8 +17,8 @@
     `http://localhost:3000/`
 
 ## Available Scripts
-  `npm start`
+  1. `npm start`
 
-  `npm run build`
+  2. `npm run build`
 
-  `npm lint`
+  3. `npm lint`
